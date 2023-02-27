@@ -47,7 +47,7 @@ const Footer = () => {
         </article>
         </div>
         <div className="footer__copyright">
-            <small>Made By IsraelBosun with React</small>
+            <small>Made By Okomayin Onaivi with React</small>
     </div> 
     </footer>
   )
