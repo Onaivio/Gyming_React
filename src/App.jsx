@@ -21,7 +21,6 @@ const App = () => {
           <Route path = "plans" element = {<Plans/>} />
           <Route path = "trainers" element = {<Trainers/>} />
           <Route path = "*" element = {<NotFound/>} />
-          
         </Routes>
           <Footer />
     </BrowserRouter>
